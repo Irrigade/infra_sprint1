@@ -9,8 +9,6 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['158.160.197.90', '127.0.0.1', 'localhost', 'kittygram-irrigade.chickenkiller.com']
 
-APPEND_SLASH = False
-
 CSRF_TRUSTED_ORIGINS = ['https://kittygram-irrigade.chickenkiller.com']
 
 INSTALLED_APPS = [
