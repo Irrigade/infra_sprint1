@@ -1,0 +1,5 @@
+IP: 158.160.197.90;
+name_taski: https://irrigade.servehttp.com;
+name_kittygram: https://kittygram-irrigade.chickenkiller.com;
+login: ubuntu;
+password: ir1986;
